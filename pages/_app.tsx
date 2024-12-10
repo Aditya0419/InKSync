@@ -12,7 +12,7 @@ const App = ({ Component, pageProps }: AppProps) => {
   return (
     <>
       <Head>
-        <title>Collabio | Online Whiteboard</title>
+        <title>InkSync | Online Whiteboard</title>
         <link rel="icon" href="/web_icon.png" />
       </Head>
       <RecoilRoot>
